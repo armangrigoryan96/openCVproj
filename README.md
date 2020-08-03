@@ -1,0 +1,2 @@
+# smileDetector
+The application automatically turns your camera on and searches for human faces. Once it finds a face it starts detecting. If the person smiles and both eyes are open simultaneously, then the application automatically captures his/her photo and puts into a folder named Photos. In all other cases the application does not capture photos. At the end of the day nobody wants to have a photo with closed eyes and it is good that somebody smiles. 
